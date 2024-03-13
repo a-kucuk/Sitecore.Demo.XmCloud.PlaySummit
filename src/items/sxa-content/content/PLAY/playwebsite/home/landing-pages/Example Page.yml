@@ -1,0 +1,17 @@
+﻿---
+ID: "764a354b-9261-47bf-ae79-7eccff6bd187"
+Parent: "4d587c56-3717-41cb-936c-5d0412a50b6b"
+Template: "c14b6289-8ac2-439c-9e5b-40de9f820c3f"
+Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/Example Page"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22753447-be25-4035-a3c9-7f875afe8e57"
+      Hint: RedirectUrl
+      Value: |
+        <link id="{764a354b-9261-47bf-ae79-7eccff6bd187}" text="Example Page Text" title="Example Link Title" querystring="sc_lang=en&amp;sc_site=" anchor="" target="" linktype="internal"/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eeebac6f-000a-45c9-ba03-1dd2cebe4852"
