@@ -81,33 +81,6 @@
     "components": [
       {
         "libraryId": "generated",
-        "id": "FnbXCgP1cr",
-        "collectionId": "JYYIXneyeG",
-        "name": "Session Promo",
-        "description": "",
-        "status": "published",
-        "versionCount": 3,
-        "stagedVersionCount": 3,
-        "embeddableVersionCount": 1,
-        "datasourceIds": [
-          "d8aa73e1c2754eeebb9d333925e51952"
-        ],
-        "createdAt": "2023-06-29T10:20:06.611Z",
-        "stagedAt": "2023-08-02T09:18:50.9Z",
-        "publishedAt": "2023-08-02T12:50:02.717Z",
-        "modifiedAt": "2023-08-02T12:50:02.717Z",
-        "modifiedBy": {
-          "id": "63f77560c538c12a3133eaa8",
-          "name": "Neli Kostadinova",
-          "email": "neli.kostadinova@sitecore.com",
-          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
-          "givenName": "Neli",
-          "familyName": "Kostadinova"
-        },
-        "bundles": []
-      },
-      {
-        "libraryId": "generated",
         "id": "KzEssOTo6j",
         "collectionId": "JYYIXneyeG",
         "name": "Speaker Promo",
@@ -139,17 +112,44 @@
         "collectionId": "JYYIXneyeG",
         "name": "Sponsor Promo",
         "description": "",
-        "status": "published",
+        "status": "changed",
         "versionCount": 2,
-        "stagedVersionCount": 2,
+        "stagedVersionCount": 1,
         "embeddableVersionCount": 1,
         "datasourceIds": [
           "3b884b3054c1464caaddf8bd94e7c38e"
         ],
         "createdAt": "2023-05-25T08:12:41.126Z",
-        "stagedAt": "2023-08-02T09:20:47.018Z",
+        "stagedAt": "2023-08-02T09:20:47.016Z",
         "publishedAt": "2023-08-02T09:20:47.018Z",
         "modifiedAt": "2023-08-02T09:20:47.018Z",
+        "modifiedBy": {
+          "id": "63f77560c538c12a3133eaa8",
+          "name": "Neli Kostadinova",
+          "email": "neli.kostadinova@sitecore.com",
+          "picture": "https://s.gravatar.com/avatar/06d7dea3aaf279c901d2c05407892328?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fne.png",
+          "givenName": "Neli",
+          "familyName": "Kostadinova"
+        },
+        "bundles": []
+      },
+      {
+        "libraryId": "generated",
+        "id": "FnbXCgP1cr",
+        "collectionId": "JYYIXneyeG",
+        "name": "Session Promo",
+        "description": "",
+        "status": "changed",
+        "versionCount": 2,
+        "stagedVersionCount": 0,
+        "embeddableVersionCount": 1,
+        "datasourceIds": [
+          "d8aa73e1c2754eeebb9d333925e51952"
+        ],
+        "createdAt": "2023-06-29T10:20:06.611Z",
+        "stagedAt": null,
+        "publishedAt": "2023-08-02T12:50:02.717Z",
+        "modifiedAt": "2023-08-02T09:20:37.689Z",
         "modifiedBy": {
           "id": "63f77560c538c12a3133eaa8",
           "name": "Neli Kostadinova",
